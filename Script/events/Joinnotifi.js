@@ -272,7 +272,7 @@ module.exports.run = async function ({
     _0x334131.shadowBlur = 0x5;
     _0x334131.fillStyle = "#FFFFFF";
     _0x334131.font = "bold 32px Arial";
-    _0x334131.fillText("👑Owner👉 Abur Hasan Rahat", 0x1f4, _0x44424b);
+    _0x334131.fillText("👑Owner👉 Abir Hasan Rahat", 0x1f4, _0x44424b);
     _0x334131.fillStyle = "#FFD700";
     _0x334131.font = "bold 30px Arial";
     _0x334131.fillText(_0x2435f6 + " • " + _0x31eed6, 0x1f4, _0x44424b + 0x32);
