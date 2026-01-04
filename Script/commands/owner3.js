@@ -61,10 +61,10 @@ module.exports.run = async function({ api, event }) {
     const info = [
         "👑 Name : Rahat Islam",
         "🧸 Nickname : Rahat",
-        "🎂 Age : 16",
+        "🎂 Age : 18",
         "💘 Relation : Single",
         "🎓 Profession : Student",
-        "🏡 Address : Jamalpur",
+        "🏡 Address : Mymensingh ",
         "",
         "🔗 CONTACT LINKS",
         "📘 Facebook : fb.com/61581900625860",
