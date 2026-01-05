@@ -81,7 +81,7 @@ module.exports.run = async function({ event, api, args, Users }) {
         return api.sendMessage(`[ - ] ID ${idBox} is already pre-approved!`, threadID, messageID);
     } else {
         api.sendMessage({
-            body: `🌸 Maria Bot Connected Successfully! 🌸\nUse !help to see all available commands!`
+            body: `🌸 Rahat Bot Connected Successfully! 🌸\nUse !help to see all available commands!`
         }, idBox, () => {
             // Approved list update
             data.push(idBox);
