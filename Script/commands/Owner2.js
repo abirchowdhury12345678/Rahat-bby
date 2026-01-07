@@ -2,7 +2,7 @@ const request = require("request");
 const fs = require("fs-extra");
 
 module.exports.config = {
- name: "owner2",
+ name: "owner",
  version: "1.0.1",
  hasPermssion: 0,
  credits: "🔰Rahat🔰",
@@ -18,7 +18,7 @@ module.exports.config = {
 };
 
 module.exports.run = async function ({ api, event }) {
- const imageUrl = "https://graph.facebook.com/61581900625860/picture?height=720&width=720&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662";
+ const imageUrl = "https://graph.facebook.com/61585114784110/picture?height=720&width=720&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662";
  const path = __dirname + "/cache/owner.png";
 
  request(imageUrl)
